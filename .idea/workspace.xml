@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f3e03f7-8035-4eee-9df3-9627b25fbec3" name="Default" comment="git ignore">
+    <list default="true" id="0f3e03f7-8035-4eee-9df3-9627b25fbec3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/Day_11_SwitchToStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/Day_12_BreakDependencies.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/Day_13_ExtractMethodObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/Day_14_BreakResponsibilities.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/Day_15_RemoveDuplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/Day_16_EncapsulateConditional.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/Day_17_ExtractSuperclass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/Day_18_ReplaceException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/Day_19_ExtractServiceClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/Day_20_ExtractSubclass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/Day_21_CollapseHierarchy.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.gitignore.bak" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyCode.iml" afterPath="$PROJECT_DIR$/MyCode.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,155 +26,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Day_3_PullUpMethod.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/refactor/Day_3_PullUpMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day_4_PushDownMethod.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/refactor/Day_4_PushDownMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day_5_PullUpField.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/refactor/Day_5_PullUpField.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" column="67" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="67" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day_6_PushDownField.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/refactor/Day_6_PushDownField.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="68" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day_7_Rename.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/refactor/Day_7_Rename.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day_8_ReplaceInheritance.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/refactor/Day_8_ReplaceInheritance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="67" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="19" selection-end-column="67" />
-              <folding>
-                <element signature="e#267#268#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#495#496#0" expanded="true" />
-                <element signature="e#536#537#0" expanded="true" />
-                <element signature="e#629#630#0" expanded="true" />
-                <element signature="e#683#684#0" expanded="true" />
-                <element signature="e#720#721#0" expanded="true" />
-                <element signature="e#773#774#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day_9_ExtractInterface.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/refactor/Day_9_ExtractInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
-              <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day_10_ExtractMethod.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/refactor/Day_10_ExtractMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1499078836156" expanded="true" signature="59256:59298" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="59256:59316" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="59256:59329" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="59256:59344" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="59379:61869" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="59392:61854" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="59446:59741" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="59465:59726" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="59528:59706" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="59568:59672" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="59589:59650" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="59791:60118" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="59810:60103" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="59905:60083" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="59945:60049" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="59966:60027" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="60169:60434" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="60188:60419" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="60221:60399" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="60261:60365" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="60282:60343" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="60477:60783" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="60496:60768" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="60570:60748" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="60610:60714" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="60631:60692" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="60834:61182" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="60853:61167" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="60930:61147" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="60970:61113" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="60991:61091" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="61217:61523" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="61236:61508" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="61310:61488" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="61350:61454" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="61371:61432" ph="..." />
-                <marker date="1499078836156" expanded="true" signature="61575:61840" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -218,6 +81,20 @@
         <option value="$PROJECT_DIR$/src/refactor/Day_8_ReplaceInheritance.java" />
         <option value="$PROJECT_DIR$/src/refactor/Day_9_ExtractInterface.java" />
         <option value="$PROJECT_DIR$/src/refactor/Day_10_ExtractMethod.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/refactor/Day_11_SwitchToStrategy.java" />
+        <option value="$PROJECT_DIR$/src/refactor/Day_12_BreakDependencies.java" />
+        <option value="$PROJECT_DIR$/src/refactor/Day_13_ExtractMethodObject.java" />
+        <option value="$PROJECT_DIR$/src/refactor/Day_14_BreakResponsibilities.java" />
+        <option value="$PROJECT_DIR$/src/refactor/Day_15_RemoveDuplication.java" />
+        <option value="$PROJECT_DIR$/src/refactor/Day_16_EncapsulateConditional.java" />
+        <option value="$PROJECT_DIR$/src/refactor/Day_17_ExtractSuperclass.java" />
+        <option value="$PROJECT_DIR$/src/refactor/Day_18_ReplaceException.java" />
+        <option value="$PROJECT_DIR$/src/refactor/Day_19_ReplaceException.java" />
+        <option value="$PROJECT_DIR$/src/refactor/Day_19_ExtractServiceClass.java" />
+        <option value="$PROJECT_DIR$/src/refactor/Day_20_ExtractSubclass.java" />
+        <option value="$PROJECT_DIR$/src/refactor/Day_21_ExtractSubclass.java" />
+        <option value="$PROJECT_DIR$/src/refactor/Day_21_CollapseHierarchy.java" />
       </list>
     </option>
   </component>
@@ -311,7 +188,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
+              <option name="myItemId" value="out" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -810,7 +687,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499067169161</updated>
-      <workItem from="1499067173412" duration="11179000" />
+      <workItem from="1499067173412" duration="14638000" />
     </task>
     <task id="LOCAL-00001" summary="重构方法学习记录day1 ~ day10">
       <created>1499078688156</created>
@@ -826,19 +703,26 @@
       <option name="project" value="LOCAL" />
       <updated>1499078704416</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="git ignore">
+      <created>1499078854746</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1499078854746</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11179000" />
+    <option name="totallyTimeSpent" value="14638000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32918552" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -855,17 +739,17 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32842582" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31866953" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25375536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -877,7 +761,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="重构方法学习记录day1 ~ day10" />
-    <option name="LAST_COMMIT_MESSAGE" value="重构方法学习记录day1 ~ day10" />
+    <MESSAGE value="git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="git ignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1048,42 +933,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/Day_3_PullUpMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/Day_4_PushDownMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/Day_5_PullUpField.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="67" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/refactor/Day_6_PushDownField.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="19" column="68" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/Day_7_Rename.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1105,10 +958,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/Day_9_ExtractInterface.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
           <folding />
         </state>
       </provider>
@@ -1121,56 +982,159 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/src/refactor/Day_9_ExtractInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="485">
+          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/refactor/Day_7_Rename.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/refactor/Day_5_PullUpField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="67" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/refactor/Day_4_PushDownMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/refactor/Day_11_SwitchToStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
           <folding>
-            <marker date="1499078836156" expanded="true" signature="59256:59298" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="59256:59316" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="59256:59329" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="59256:59344" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="59379:61869" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="59392:61854" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="59446:59741" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="59465:59726" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="59528:59706" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="59568:59672" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="59589:59650" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="59791:60118" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="59810:60103" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="59905:60083" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="59945:60049" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="59966:60027" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="60169:60434" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="60188:60419" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="60221:60399" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="60261:60365" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="60282:60343" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="60477:60783" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="60496:60768" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="60570:60748" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="60610:60714" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="60631:60692" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="60834:61182" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="60853:61167" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="60930:61147" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="60970:61113" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="60991:61091" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="61217:61523" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="61236:61508" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="61310:61488" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="61350:61454" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="61371:61432" ph="..." />
-            <marker date="1499078836156" expanded="true" signature="61575:61840" ph="..." />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/refactor/Day_13_ExtractMethodObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="525">
+          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding>
+            <element signature="e#1426#1427#0" expanded="true" />
+            <element signature="e#1494#1495#0" expanded="true" />
+            <element signature="e#1734#1735#0" expanded="true" />
+            <element signature="e#1774#1775#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/refactor/Day_14_BreakResponsibilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#1101#1102#0" expanded="true" />
+            <element signature="e#1151#1152#0" expanded="true" />
+            <element signature="e#1368#1369#0" expanded="true" />
+            <element signature="e#1423#1424#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/refactor/Day_15_RemoveDuplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <folding>
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+            <element signature="e#887#888#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/refactor/Day_16_EncapsulateConditional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/refactor/Day_17_ExtractSuperclass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="40" column="5" lean-forward="false" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/refactor/Day_3_PullUpMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/refactor/Day_12_BreakDependencies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="35" column="67" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="35" selection-end-column="67" />
+          <folding>
+            <element signature="e#1055#1056#0" expanded="true" />
+            <element signature="e#1113#1114#0" expanded="true" />
+            <element signature="e#1519#1520#0" expanded="true" />
+            <element signature="e#1565#1566#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/refactor/Day_18_ReplaceException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/refactor/Day_19_ExtractServiceClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="46" column="43" lean-forward="false" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+          <folding>
+            <element signature="e#1331#1332#0" expanded="true" />
+            <element signature="e#1395#1396#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/refactor/Day_21_CollapseHierarchy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="57" lean-forward="false" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/refactor/Day_20_ExtractSubclass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
