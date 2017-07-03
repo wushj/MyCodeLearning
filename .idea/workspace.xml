@@ -5,20 +5,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/MyCode/refactor/Day_1$Day1Test.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/MyCode/refactor/Day_1$Day1Test2.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/MyCode/refactor/Day_1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/Day_10_ExtractMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/Day_2_MoveMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/Day_3_PullUpMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/Day_4_PushDownMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/Day_5_PullUpField.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/Day_6_PushDownField.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/Day_7_Rename.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/Day_8_ReplaceInheritance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/Day_9_ExtractInterface.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/refactor/day1/Order.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/refactor/day1/OrderLine.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_1.java" afterPath="$PROJECT_DIR$/src/refactor/Day_1_EncapsulateCollection.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -791,12 +778,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499067169161</updated>
-      <workItem from="1499067173412" duration="10992000" />
+      <workItem from="1499067173412" duration="11029000" />
     </task>
+    <task id="LOCAL-00001" summary="重构方法学习记录day1 ~ day10">
+      <created>1499078688156</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1499078688156</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10992000" />
+    <option name="totallyTimeSpent" value="11029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -840,6 +835,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="重构方法学习记录day1 ~ day10" />
+    <option name="LAST_COMMIT_MESSAGE" value="重构方法学习记录day1 ~ day10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
