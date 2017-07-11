@@ -7,7 +7,7 @@ public class MyMapTest {
 
     public static void main(String[] args) {
 
-        Mymap<Integer,String> map = new Mymap<Integer,String>();
+        MyMap<Integer,String> map = new MyMap<Integer,String>();
         map.put(1,"aaa");
         map.put(2,"bbb");
 
