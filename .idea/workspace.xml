@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f3e03f7-8035-4eee-9df3-9627b25fbec3" name="Default" comment="">
-<<<<<<< HEAD
+    <list default="true" id="f955d9a3-1e53-4f82-b43f-95a2c50d329f" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/dataStructure/list/MyArrayList.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/dataStructure/list/MyArrayListItf.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/dataStructure/list/MyListTest.class" afterPath="" />
@@ -10,113 +9,9 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/dataStructure/map/MyMapItf.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/dataStructure/map/MyMapTest.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/dataStructure/map/Mymap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/refactor/Day_1$Day1Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/refactor/Day_1$Day1Test2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/refactor/Day_1.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-=======
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/designPattern/设计模式.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactor/composingmethd/replacetempwithquery/Order.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactor/composingmethod/extractmethod/Printer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactor/generation/delegatetoinheritance/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactor/generation/delegatetoinheritance/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactor/generation/extractsubclass/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactor/generation/extractsubclass/JobItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactor/generation/extractsuperclass/Department.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactor/generation/extractsuperclass/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactor/generation/inheritancetodelegate/MyStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactor/generation/templatemethod/HtmlStatement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactor/generation/templatemethod/Movie.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactor/generation/templatemethod/Rental.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactor/generation/templatemethod/TextStatement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactor/movingfeature/movemethod/Account.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactor/organizingdata/encapsulate/IntRange.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactor/organizingdata/typecodetoclass/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactor/organizingdata/typecodetostate/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactor/organizingdata/typecodetosubclass/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactor/simplifycall/rename/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactor/simplifycall/replaceconstructor/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactor/simplifycall/seperatequeryfrommodify/Login.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/composingmethd/replacetempwithquery/Order.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/composingmethod/extractmethod/Printer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/delegatetoinheritance/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/delegatetoinheritance/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractinterface/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractinterface/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractinterface/PersonTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractinterface/Truck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractsubclass/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractsubclass/JobItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractsubclass/LaborItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractsubclass/NoLaborItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractsuperclass/Department.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractsuperclass/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractsuperclass/Party.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/inheritancetodelegate/MyStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/templatemethod/HtmlStatement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/templatemethod/Movie.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/templatemethod/Rental.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/templatemethod/Statement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/templatemethod/TextStatement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/movingfeature/movemethod/Account.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/movingfeature/movemethod/AccountType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/encapsulate/IntRange.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/typecodetoclass/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/typecodetostate/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/typecodetostate/EmployeeType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/typecodetosubclass/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/typecodetosubclass/Engineer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/typecodetosubclass/Manager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/typecodetosubclass/Saleman.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/simplifycall/rename/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/simplifycall/replaceconstructor/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/simplifycall/seperatequeryfrommodify/Login.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/refactor/Day_1$Day1Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/refactor/Day_1$Day1Test2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyCode/refactor/Day_1.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/dataStructure/list/MyArrayList.class" afterPath="$PROJECT_DIR$/out/production/MyCode/dataStructure/list/MyArrayList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/dataStructure/list/MyArrayListItf.class" afterPath="$PROJECT_DIR$/out/production/MyCode/dataStructure/list/MyArrayListItf.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/dataStructure/list/MyListTest.class" afterPath="$PROJECT_DIR$/out/production/MyCode/dataStructure/list/MyListTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/dataStructure/map/MyEntry.class" afterPath="$PROJECT_DIR$/out/production/MyCode/dataStructure/map/MyEntry.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/dataStructure/map/MyMapItf.class" afterPath="$PROJECT_DIR$/out/production/MyCode/dataStructure/map/MyMapItf.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/dataStructure/map/MyMapTest.class" afterPath="$PROJECT_DIR$/out/production/MyCode/dataStructure/map/MyMapTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/dataStructure/map/Mymap.class" afterPath="$PROJECT_DIR$/out/production/MyCode/dataStructure/map/Mymap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyCode.iml" afterPath="$PROJECT_DIR$/MyCode.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dataStructure/map/MyMapTest.java" afterPath="$PROJECT_DIR$/src/dataStructure/map/MyMapTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/dataStructure/map/Mymap.java" afterPath="$PROJECT_DIR$/src/dataStructure/map/MyMap.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_10_ExtractMethod.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_10_ExtractMethod.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_11_SwitchToStrategy.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_11_SwitchToStrategy.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_12_BreakDependencies.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_12_BreakDependencies.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_13_ExtractMethodObject.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_13_ExtractMethodObject.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_14_BreakResponsibilities.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_14_BreakResponsibilities.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_15_RemoveDuplication.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_15_RemoveDuplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_16_EncapsulateConditional.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_16_EncapsulateConditional.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_17_ExtractSuperclass.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_17_ExtractSuperclass.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_18_ReplaceException.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_18_ReplaceException.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_19_ExtractServiceClass.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_19_ExtractServiceClass.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_1_EncapsulateCollection.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_1_EncapsulateCollection.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_20_ExtractSubclass.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_20_ExtractSubclass.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_21_CollapseHierarchy.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_21_CollapseHierarchy.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_22_BreakMethod.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_22_BreakMethod.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_23_ParameterObject.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_23_ParameterObject.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_24_ArrowheadAntipattern.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_24_ArrowheadAntipattern.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_25_DesignByContract.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_25_DesignByContract.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_26_DoubleNegative.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_26_DoubleNegative.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_27_RemoveGodClasses.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_27_RemoveGodClasses.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_28_RenameBooleanMethod.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_28_RenameBooleanMethod.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_29_RemoveMiddleMan.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_29_RemoveMiddleMan.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_2_MoveMethod.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_2_MoveMethod.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_30_ReturnASAP.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_30_ReturnASAP.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_31_ReplaceWithPolymorphism.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_31_ReplaceWithPolymorphism.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_3_PullUpMethod.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_3_PullUpMethod.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_4_PushDownMethod.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_4_PushDownMethod.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_5_PullUpField.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_5_PullUpField.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_6_PushDownField.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_6_PushDownField.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_7_Rename.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_7_Rename.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_8_ReplaceInheritance.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_8_ReplaceInheritance.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/refactor/Day_9_ExtractInterface.java" afterPath="$PROJECT_DIR$/src/refactor/Day31/Day_9_ExtractInterface.java" />
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -126,27 +21,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_TABLE_DETAILS" value="true" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="FavoritesManager">
-    <favorites_list name="Mycode" />
-  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MyMap.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/dataStructure/map/MyMap.java">
+      <file leaf-file-name="GetClass.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/basic/GetClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-              <folding />
+            <state relative-caret-position="105">
+              <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+              <folding>
+                <element signature="e#616#617#0" expanded="true" />
+                <element signature="e#665#666#0" expanded="true" />
+                <element signature="e#696#697#0" expanded="true" />
+                <element signature="e#750#751#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -157,7 +45,6 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -172,57 +59,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactor/generation/extractsubclass/Employee.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactor/generation/extractsubclass/JobItem.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactor/generation/extractsuperclass/Department.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactor/generation/extractsuperclass/Employee.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactor/generation/inheritancetodelegate/MyStack.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactor/generation/templatemethod/HtmlStatement.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactor/generation/templatemethod/Movie.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactor/generation/templatemethod/Rental.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactor/generation/templatemethod/TextStatement.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactor/movingfeature/movemethod/Account.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactor/organizingdata/encapsulate/IntRange.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactor/organizingdata/typecodetoclass/Person.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactor/organizingdata/typecodetostate/Employee.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactor/organizingdata/typecodetosubclass/Employee.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/composingmethod/extractmethod/Printer.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactor/simplifycall/seperatequeryfrommodify/Login.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactor/composingmethod/extractmethod/Printer.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/delegatetoinheritance/Employee.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/delegatetoinheritance/Person.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractinterface/Car.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractinterface/Person.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractinterface/PersonTest.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractinterface/Truck.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractsubclass/Employee.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractsubclass/JobItem.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractsubclass/LaborItem.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractsubclass/NoLaborItem.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractsuperclass/Department.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractsuperclass/Employee.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractsuperclass/Party.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/inheritancetodelegate/MyStack.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/templatemethod/HtmlStatement.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/templatemethod/Movie.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/templatemethod/Rental.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/templatemethod/Statement.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/templatemethod/TextStatement.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/movingfeature/movemethod/Account.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/movingfeature/movemethod/AccountType.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/encapsulate/IntRange.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/typecodetoclass/Person.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/typecodetostate/Employee.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/typecodetostate/EmployeeType.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/typecodetosubclass/Employee.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/typecodetosubclass/Engineer.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/typecodetosubclass/Manager.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/typecodetosubclass/Saleman.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/simplifycall/rename/Person.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/simplifycall/replaceconstructor/Person.java" />
-        <option value="$PROJECT_DIR$/src/refactor/CodeRefactorExcise/simplifycall/seperatequeryfrommodify/Login.java" />
-        <option value="$PROJECT_DIR$/src/dataStructure/map/Mymap.java" />
-        <option value="$PROJECT_DIR$/src/dataStructure/map/MyMap.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/basic/Test1.java" />
+        <option value="$PROJECT_DIR$/src/basic/Get.java" />
+        <option value="$PROJECT_DIR$/src/basic/Class.java" />
+        <option value="$PROJECT_DIR$/src/basic/GetClass.java" />
       </list>
     </option>
   </component>
@@ -233,13 +75,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="2174" />
-    <option name="height" value="1402" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1932" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -256,31 +95,39 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-<<<<<<< HEAD
-      <pane id="PackagesPane" />
-=======
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Mycode" />
+              <option name="myItemId" value="MyCode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Mycode" />
+              <option name="myItemId" value="MyCode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Mycode" />
+              <option name="myItemId" value="MyCode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Mycode" />
+              <option name="myItemId" value="MyCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyCode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -288,92 +135,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="refactor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="refactor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeRefactorExcise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="refactor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeRefactor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="basic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="extract.method.default.visibility" value="private" />
-<<<<<<< HEAD
-    <property name="last_opened_file_path" value="F:/quanyou/Code/stockcenter" />
-=======
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="refactor" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -387,75 +163,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Day_31_ReplaceWithPolymorphism">
-    <configuration default="false" name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.GetClass">
+    <configuration default="false" name="GetClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="dataStructure.list.*" />
+          <option name="PATTERN" value="basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="dataStructure.list.MyListTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MyCode" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="MyMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="dataStructure.map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="dataStructure.map.MyMapTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MyCode" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Day_1_EncapsulateCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="refactor.Day31.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="refactor.Day31.Day_1_EncapsulateCollection" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MyCode" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Day_31_ReplaceWithPolymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="refactor.Day31.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="refactor.Day31.Day_31_ReplaceWithPolymorphism" />
+      <option name="MAIN_CLASS_NAME" value="basic.GetClass" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -705,7 +421,6 @@
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
-      <setting name="depsClasspath" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -834,12 +549,6 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -855,18 +564,12 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Application.MyListTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MyMapTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Day_1_EncapsulateCollection" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Day_31_ReplaceWithPolymorphism" />
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.GetClass" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.Day_31_ReplaceWithPolymorphism" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Day_1_EncapsulateCollection" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MyMapTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MyListTest" />
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.GetClass" />
       </list>
     </recent_temporary>
   </component>
@@ -875,198 +578,65 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0f3e03f7-8035-4eee-9df3-9627b25fbec3" name="Default" comment="" />
-      <created>1499067169161</created>
+      <changelist id="f955d9a3-1e53-4f82-b43f-95a2c50d329f" name="Default" comment="" />
+      <created>1499857613079</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1499067169161</updated>
-<<<<<<< HEAD
-      <workItem from="1499067173412" duration="14741000" />
-      <workItem from="1499131203925" duration="1304000" />
-=======
-      <workItem from="1499067173412" duration="14638000" />
-      <workItem from="1499086718745" duration="5826000" />
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
+      <updated>1499857613079</updated>
+      <workItem from="1499857614644" duration="1674000" />
     </task>
-    <task id="LOCAL-00001" summary="重构方法学习记录day1 ~ day10">
-      <created>1499078688156</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1499078688156</updated>
-    </task>
-    <task id="LOCAL-00002" summary="重构方法学习记录day1 ~ day10">
-      <created>1499078704416</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1499078704416</updated>
-    </task>
-    <task id="LOCAL-00003" summary="git ignore">
-      <created>1499078854746</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1499078854746</updated>
-    </task>
-<<<<<<< HEAD
-    <task id="LOCAL-00004" summary="重构方法学习笔记day11 ~ day21">
-      <created>1499082509342</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1499082509342</updated>
-=======
-    <task id="LOCAL-00004" summary="31种重构方法">
-      <created>1499089463953</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1499089463953</updated>
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="16045000" />
-=======
-    <option name="totallyTimeSpent" value="20464000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
+    <option name="totallyTimeSpent" value="1674000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="2174" height="1402" extended-state="0" />
+    <frame x="-9" y="-9" width="1932" height="1048" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-<<<<<<< HEAD
-      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32918552" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39932126" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Key Promoter" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25751072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2497309" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-=======
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.3294509" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39932126" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861897" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.327787" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861897" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294509" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.371881" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32918552" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="重构方法学习记录day1 ~ day10" />
-    <MESSAGE value="git ignore" />
-<<<<<<< HEAD
-    <MESSAGE value="重构方法学习笔记day11 ~ day21" />
-    <option name="LAST_COMMIT_MESSAGE" value="重构方法学习笔记day11 ~ day21" />
-=======
-    <MESSAGE value="31种重构方法" />
-    <MESSAGE value="重构——改善既有代码 书中源码" />
-    <option name="LAST_COMMIT_MESSAGE" value="重构——改善既有代码 书中源码" />
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
-  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
-      <option name="time" value="10" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1074,640 +644,58 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactor/generation/extractsubclass/JobItem.java">
+    <entry file="file://$PROJECT_DIR$/src/base.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="284">
-          <caret line="142" column="12" lean-forward="false" selection-start-line="142" selection-start-column="12" selection-end-line="142" selection-end-column="12" />
-=======
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-          <folding />
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactor/generation/extractsuperclass/Department.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="357">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-=======
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-          <folding />
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactor/generation/extractsuperclass/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="1113">
-          <caret line="53" column="35" lean-forward="false" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
-=======
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-          <folding />
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactor/generation/inheritancetodelegate/MyStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="567">
-          <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-=======
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-          <folding />
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactor/generation/templatemethod/Movie.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="555">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-=======
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-          <folding />
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactor/generation/templatemethod/Rental.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="261">
-          <caret line="49" column="21" lean-forward="false" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
-=======
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-          <folding />
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactor/generation/templatemethod/HtmlStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="126">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-=======
-        <state relative-caret-position="96">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactor/generation/templatemethod/TextStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="65">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/day1/Order.java" />
-    <entry file="file://$PROJECT_DIR$/src/refactor/day1/OrderLine.java" />
-    <entry file="file://$PROJECT_DIR$/src/refactor/day2/before/BankAccount.java" />
-    <entry file="file://$PROJECT_DIR$/src/refactor/day2/before/AccountInterest.java" />
-    <entry file="file://$PROJECT_DIR$/src/refactor/day2/after/BankAccount.java" />
-    <entry file="file://$PROJECT_DIR$/src/refactor/day2/after/AccountInterest.java" />
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-=======
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+        <state relative-caret-position="63">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactor/movingfeature/movemethod/Account.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactor/organizingdata/encapsulate/IntRange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactor/organizingdata/typecodetoclass/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactor/organizingdata/typecodetostate/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactor/organizingdata/typecodetosubclass/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactor/simplifycall/seperatequeryfrommodify/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactor/composingmethod/extractmethod/Printer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/composingmethod/extractmethod/Printer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-24">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/composingmethd/replacetempwithquery/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/delegatetoinheritance/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/delegatetoinheritance/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractinterface/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractinterface/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="546">
-          <caret line="62" column="67" lean-forward="true" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#774#782#0" expanded="false" />
-            <element signature="e#1337#1345#0" expanded="false" />
-          </folding>
-=======
-        <state relative-caret-position="48">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractinterface/Truck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractinterface/PersonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractsubclass/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="399">
-          <caret line="19" column="67" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="19" selection-end-column="67" />
-          <folding>
-            <element signature="e#267#268#0" expanded="false" />
-            <element signature="e#308#309#0" expanded="false" />
-            <element signature="e#495#496#0" expanded="false" />
-            <element signature="e#536#537#0" expanded="false" />
-            <element signature="e#629#630#0" expanded="false" />
-            <element signature="e#683#684#0" expanded="false" />
-            <element signature="e#720#721#0" expanded="false" />
-            <element signature="e#773#774#0" expanded="false" />
-          </folding>
-=======
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractsubclass/JobItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractsubclass/LaborItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="210">
-          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
-=======
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractsubclass/NoLaborItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractsuperclass/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractsuperclass/Party.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractsuperclass/Department.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="165">
+          <caret line="1051" column="15" lean-forward="false" selection-start-line="1051" selection-start-column="15" selection-end-line="1051" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/inheritancetodelegate/MyStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="84">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/templatemethod/Rental.java">
+    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/extractinterface/PersonTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+        <state relative-caret-position="105">
+          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/templatemethod/Movie.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="525">
-          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        <state relative-caret-position="212">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basic/GetClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
           <folding>
-            <element signature="e#1426#1427#0" expanded="false" />
-            <element signature="e#1494#1495#0" expanded="false" />
-            <element signature="e#1734#1735#0" expanded="false" />
-            <element signature="e#1774#1775#0" expanded="false" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
           </folding>
-=======
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/templatemethod/HtmlStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="400">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding>
-            <element signature="e#568#569#0" expanded="false" />
-            <element signature="e#618#619#0" expanded="false" />
-            <element signature="e#675#676#0" expanded="false" />
-            <element signature="e#730#731#0" expanded="false" />
-            <element signature="e#1101#1102#0" expanded="false" />
-            <element signature="e#1151#1152#0" expanded="false" />
-            <element signature="e#1368#1369#0" expanded="false" />
-            <element signature="e#1423#1424#0" expanded="false" />
-          </folding>
-=======
-        <state relative-caret-position="456">
-          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-          <folding />
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/templatemethod/Statement.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="43">
-          <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-          <folding>
-            <element signature="e#782#783#0" expanded="false" />
-            <element signature="e#812#813#0" expanded="false" />
-            <element signature="e#857#858#0" expanded="false" />
-            <element signature="e#887#888#0" expanded="false" />
-          </folding>
-=======
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/generation/templatemethod/TextStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/movingfeature/movemethod/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/movingfeature/movemethod/AccountType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/encapsulate/IntRange.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="735">
-          <caret line="35" column="67" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="35" selection-end-column="67" />
-          <folding>
-            <element signature="e#1055#1056#0" expanded="false" />
-            <element signature="e#1113#1114#0" expanded="false" />
-            <element signature="e#1519#1520#0" expanded="false" />
-            <element signature="e#1565#1566#0" expanded="false" />
-          </folding>
-=======
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/typecodetoclass/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/typecodetostate/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="421">
-          <caret line="46" column="43" lean-forward="false" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
-          <folding>
-            <element signature="e#1331#1332#0" expanded="false" />
-            <element signature="e#1395#1396#0" expanded="false" />
-          </folding>
-=======
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
->>>>>>> c1d91cb70017266a15cde0c3df3d48d183001045
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/typecodetostate/EmployeeType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/typecodetosubclass/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/typecodetosubclass/Engineer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/typecodetosubclass/Manager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/organizingdata/typecodetosubclass/Saleman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/simplifycall/rename/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/simplifycall/replaceconstructor/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/CodeRefactorExcise/simplifycall/seperatequeryfrommodify/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/refactor/Day31/Day_16_EncapsulateConditional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1128">
-          <caret line="47" column="84" lean-forward="false" selection-start-line="47" selection-start-column="84" selection-end-line="47" selection-end-column="84" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dataStructure/map/MyMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>MyCode</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
