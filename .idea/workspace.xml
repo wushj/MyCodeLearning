@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f955d9a3-1e53-4f82-b43f-95a2c50d329f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStructure/array/MyArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStructure/array/MySortedArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/dataStructure/list/MyArrayList.class" afterPath="$PROJECT_DIR$/out/production/MyCode/dataStructure/list/MyArrayList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/dataStructure/list/MyArrayListItf.class" afterPath="$PROJECT_DIR$/out/production/MyCode/dataStructure/list/MyArrayListItf.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/dataStructure/list/MyListTest.class" afterPath="$PROJECT_DIR$/out/production/MyCode/dataStructure/list/MyListTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/dataStructure/map/MyEntry.class" afterPath="$PROJECT_DIR$/out/production/MyCode/dataStructure/map/MyEntry.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/dataStructure/map/MyMapItf.class" afterPath="$PROJECT_DIR$/out/production/MyCode/dataStructure/map/MyMapItf.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/dataStructure/map/MyMapTest.class" afterPath="$PROJECT_DIR$/out/production/MyCode/dataStructure/map/MyMapTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyCode/dataStructure/map/Mymap.class" afterPath="$PROJECT_DIR$/out/production/MyCode/dataStructure/map/Mymap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,7 +27,7 @@
       <file leaf-file-name="MySortedArray.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/dataStructure/array/MySortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="574">
+            <state relative-caret-position="763">
               <caret line="90" column="16" lean-forward="false" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
               <folding />
             </state>
@@ -609,12 +599,12 @@
       <workItem from="1504320679645" duration="1291000" />
       <workItem from="1505202259810" duration="684000" />
       <workItem from="1505270295263" duration="4637000" />
-      <workItem from="1505355242688" duration="3562000" />
+      <workItem from="1505355242688" duration="3620000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14210000" />
+    <option name="totallyTimeSpent" value="14268000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -627,7 +617,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -648,7 +637,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20338982" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24858756" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24858756" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2671674" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -807,7 +796,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dataStructure/array/MySortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
+        <state relative-caret-position="763">
           <caret line="90" column="16" lean-forward="false" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
           <folding />
         </state>
