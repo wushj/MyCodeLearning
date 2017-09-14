@@ -15,7 +15,7 @@ target/
 *.ipr
 *.iws
 .idea/
-.out/
+out/
 
 # Package Files #
 *.jar
