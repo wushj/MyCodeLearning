@@ -1,5 +1,10 @@
 package dataStructure.queue;
 
+/**
+ * @Description: 队列
+ * @author: wusj
+ * @Date:   2017/9/19 17:27
+ */
 public class MyQueue {
 
     private int maxSize;
