@@ -30,4 +30,12 @@ public class Link {
     public void setNext(Link next) {
         this.next = next;
     }
+
+    @Override
+    public String toString() {
+        return "Link{" +
+                "data=" + data +
+                ", next=" + next +
+                '}';
+    }
 }
